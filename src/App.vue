@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from "vue-router";
 import HelloWorld from "./components/HelloWorld.vue";
-import { ref } from "vue";
+// import { ref } from "vue";
 
-const courseName = ref("Vue.js Masterclass");
+// const courseName = ref("Vue.js Masterclass");
 </script>
 
 <template>
